@@ -27,7 +27,7 @@ nav_order: 5
 </div>
 {% endfor %}
 
-<br><br>
+<br>
 
 ## Lab Seminars
 
