@@ -6,7 +6,7 @@ subtitle: 병렬성과 자원 효율을 극대화하는 분산 시스템을 연�
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yuchan_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>한국항공대학교 석사과정 재학중</p>
