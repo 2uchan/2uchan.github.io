@@ -14,7 +14,8 @@ author = {Yuchan Lee and Sookwang Lee and Jaehwan Lee},
 keywords = {Peer-to-peer, Distributed hash table, Content-addressable network, Python, Multidimensional euclidean space},
 abstract = {We propose PyCAN, the first open-source Python implementation of N-dimensional Content-Addressable Network (CAN) with full feature sets to maintain peer-to-peer structure. Existing CAN implementations supports limited functions of Distributed Hash Table (DHT), so they cannot be used in practice. However, PyCAN offers full set of features such as N-dimension coordinates, node removal followed by node taking over, and a verification method to keep peer-to-peer structure. By extensive experiments, we confirm that PyCAN supports scalable overlay structures, so it is practically usable in peer-to-peer systems.},
 abbr = {SoftwareX},
-code = {https://github.com/2uchan/PyCAN}
+code = {https://github.com/2uchan/PyCAN},
+selected = {true}
 }
 
 @inproceedings{10.1145/3754598.3754654,
@@ -31,8 +32,7 @@ booktitle = {Proceedings of the 54th International Conference on Parallel Proces
 pages = {63–72},
 numpages = {10},
 keywords = {Peer-to-peer Network, Decentralized Federated Learning (DFL), Personalized Federated Learning (PFL), Data Heterogeneity, Distributed Hash Tables, Clustering},
-location = {
-},
+location = {},
 series = {ICPP '25},
 abbr = {ICPP}
 }
@@ -48,6 +48,7 @@ abbr = {ICPP}
   keywords={Structural rings;System performance;Graphics processing units;Big Data;Throughput;Central Processing Unit;Synchronization;Resource management;Reliability;Artificial intelligence;Data Processing Unit;Network Offloading;CPU Congestion;Direct Memory Access},
   abstract = {The growing demand for High-Performance Computing (HPC) and large-scale AI services has led to a significant increase in workloads that require processing Big Data in real time. While the GPU handles most of the computation, frequent CPU intervention in network processing and data transfer often leads to system performance bottlenecks and inefficient resource utilization. To address this problem, we propose DEPUTY, a system that enables network processing without CPU involvement by offloading all network-related tasks to the Data Processing Unit (DPU). DEPUTY performs all network-related operations on the DPU, including receiving client requests, transferring data to GPU memory, checking GPU inference results, and sending the results back to the client. To achieve this, we utilize DOCA DMA and develop a ring buffer-based data structure in GPU memory, enabling efficient and synchronized data transmission between the DPU and GPU. DEPUTY employs index-based polling to minimize synchronization overhead while ensuring reliable communication. Unlike RDMA, DEPUTY does not require specialized hardware and tightly coupled network configurations on the client side, allowing compatibility with broader deployment environments. Additionally, to minimize CPU overhead during inference, the entire inference workflow is expressed as a CUDA Graph, allowing GPU to autonomously execute kernels in sequence without requiring repeated CPU intervention. Experimental results show that DEPUTY achieves up to 1.96× higher throughput compared to an existing DPUbased offloading method. Using DEPUTY, it effectively reduces CPU resource consumption and mitigates system performance bottlenecks.},
   doi={10.1109/BigData66926.2025.11402370},
-  video={https://www.computer.org/csdl/video-library/video/2dOxqK6hlDy}
-  abbr={BigData}
+  video={https://www.computer.org/csdl/video-library/video/2dOxqK6hlDy},
+  abbr={BigData},
+  selected={true}
 }
