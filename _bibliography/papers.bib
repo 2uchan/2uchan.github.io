@@ -1,115 +1,50 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title     = {Relativity: the Special and General Theory},
-  author    = {Einstein, Albert},
-  year      = {1920},
-  publisher = {Methuen & Co Ltd},
-  html      = {relativity.html}
+@article{LEE2024101962,
+title = {PyCAN: Open-source Python software of N-dimensional Content-Addressable Network},
+journal = {SoftwareX},
+volume = {28},
+pages = {101962},
+year = {2024},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2024.101962},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711024003327},
+author = {Yuchan Lee and Sookwang Lee and Jaehwan Lee},
+keywords = {Peer-to-peer, Distributed hash table, Content-addressable network, Python, Multidimensional euclidean space},
+abstract = {We propose PyCAN, the first open-source Python implementation of N-dimensional Content-Addressable Network (CAN) with full feature sets to maintain peer-to-peer structure. Existing CAN implementations supports limited functions of Distributed Hash Table (DHT), so they cannot be used in practice. However, PyCAN offers full set of features such as N-dimension coordinates, node removal followed by node taking over, and a verification method to keep peer-to-peer structure. By extensive experiments, we confirm that PyCAN supports scalable overlay structures, so it is practically usable in peer-to-peer systems.}
+abbr = {SoftwareX}
 }
 
-@book{einstein1956investigations,
-  bibtex_show = {true},
-  title       = {Investigations on the Theory of the Brownian Movement},
-  author      = {Einstein, Albert},
-  year        = {1956},
-  publisher   = {Courier Corporation},
-  preview     = {brownian-motion.gif}
+@inproceedings{10.1145/3754598.3754654,
+author = {Jang, Sooho and Lim, Ahyeon and Lee, Yuchan and Lee, Sookwang and Lee, Jaehwan},
+title = {P3P-Fed: Peer-to-Peer Personalized Federated Learning with DHT-based Local Clustering},
+year = {2025},
+isbn = {9798400720741},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3754598.3754654},
+doi = {10.1145/3754598.3754654},
+abstract = {Federated Learning (FL) enables the training of a single global model in a distributed manner while preserving the privacy of local data. In real-world FL environments, however, characterized by high heterogeneity in client data distributions (non-IID), the global model often suffers from performance degradation. To address this challenge, Personalized Federated Learning (PFL) has been proposed to provide personalized models either by clustering clients or by decoupling the model into shared and personalized components. Although partially effective, PFL using a client-server architecture often fails to capture client-specific characteristics and suffers from communication and computation bottlenecks. In this work, we present P3P-Fed, a personalized decentralized federated learning framework that performs clustering at the node level. By grouping nodes that have similar data distributions, each client achieves robust personalization even in highly heterogeneous non-IID environments where clustering at the global level is not feasible. To balance global model generalization and local personalization, P3P-Fed introduces a personalized head training strategy with partial aggregation and a differential learning rate. We evaluated P3P-Fed on a real-world testbed across varying degrees of data heterogeneity. The results show that P3P-Fed outperformed other baseline methods by as much as 8.64\% and achieved the fastest convergence.},
+booktitle = {Proceedings of the 54th International Conference on Parallel Processing},
+pages = {63–72},
+numpages = {10},
+keywords = {Peer-to-peer Network, Decentralized Federated Learning (DFL), Personalized Federated Learning (PFL), Data Heterogeneity, Distributed Hash Tables, Clustering},
+location = {
+},
+series = {ICPP '25}
+abbr = {ICPP}
 }
 
-@article{einstein1950meaning,
-  abbr        = {AJP},
-  bibtex_show = {true},
-  title       = {The meaning of relativity},
-  author      = {Einstein, Albert and Taub, AH},
-  journal     = {American Journal of Physics},
-  volume      = {18},
-  number      = {6},
-  pages       = {403--404},
-  year        = {1950},
-  publisher   = {American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr              = {PhysRev},
-  title             = {Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author            = {Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract          = {In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal           = {Phys. Rev.},
-  location          = {New Jersey},
-  volume            = {47},
-  issue             = {10},
-  pages             = {777--780},
-  numpages          = {0},
-  year              = {1935},
-  month             = {May},
-  publisher         = aps,
-  doi               = {10.1103/PhysRev.47.777},
-  url               = {https://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html              = {https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf               = {example_pdf.pdf},
-  altmetric         = {248277},
-  dimensions        = {true},
-  google_scholar_id = {qyhmnyLat1gC},
-  video             = {https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info   = {. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation        = {* Example use of superscripts<br>† Albert Einstein},
-  selected          = {true},
-  inspirehep_id     = {3255}
-}
-
-@article{einstein1905molekularkinetischen,
-  title     = {{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author    = {Einstein, A.},
-  journal   = {Annalen der physik},
-  volume    = {322},
-  number    = {8},
-  pages     = {549--560},
-  year      = {1905},
-  publisher = {Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr    = {Ann. Phys.},
-  title   = {Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author  = {Einstein, A.},
-  journal = {Ann. Phys.},
-  volume  = {17},
-  pages   = {549--560},
-  year    = {1905}
-}
-
-@article{einstein1905electrodynamics,
-  title  = {On the electrodynamics of moving bodies},
-  author = {Einstein, A.},
-  year   = {1905}
-}
-
-@article{einstein1905photoelectriceffect,
-  bibtex_show = {true},
-  abbr        = {Ann. Phys.},
-  title       = {{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}},
-  author      = {Albert Einstein},
-  abstract    = {This is the abstract text.},
-  journal     = {Ann. Phys.},
-  volume      = {322},
-  number      = {6},
-  pages       = {132--148},
-  year        = {1905},
-  doi         = {10.1002/andp.19053220607},
-  award       = {Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name  = {Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show = {true},
-  title       = {Letters on wave mechanics},
-  author      = {Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year        = {1967},
-  publisher   = {Vision},
-  preview     = {wave-mechanics.gif},
-  abbr        = {Vision}
+@INPROCEEDINGS{11402370,
+  author={Lee, Yuchan and Jang, Sooho and Lee, Sookwang and Ahn, Shinyoung and Lee, Jaehwan},
+  booktitle={2025 IEEE International Conference on Big Data (BigData)}, 
+  title={DEPUTY: A DPU-Based Network Offloading Architecture with Minimal CPU Involvement for Stable Network Performance}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={282-288},
+  keywords={Structural rings;System performance;Graphics processing units;Big Data;Throughput;Central Processing Unit;Synchronization;Resource management;Reliability;Artificial intelligence;Data Processing Unit;Network Offloading;CPU Congestion;Direct Memory Access},
+  doi={10.1109/BigData66926.2025.11402370}
+  abbr={BigData}
 }
