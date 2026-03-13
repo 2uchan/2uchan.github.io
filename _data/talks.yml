@@ -1,7 +1,38 @@
-- title: "DEPUTY: A DPU-Based Network Offloading Architecture with Minimal CPU Involvement for Stable Network Performance"
+- title: "DEPUTY Conference Presentation"
   event: "2025 IEEE International Conference on Big Data (BigData)"
   type: Conference
   date: 2025-12
   location: " Macau SAR, China"
   slides: /assets/pdf/deputy.pdf
   video: https://www.computer.org/csdl/video-library/video/2dOxqK6hlDy
+
+- title: "Alpa Paper Review"
+  event: "Lab Seminar (Paper Review)"
+  date: 2025-01
+  slides: /assets/pdf/Alpa.pdf
+
+- title: "Decentralized Training of Foundation Models in Heterogeneous Environments Paper Review"
+  event: "Lab Seminar (Paper Review)"
+  date: 2024-08
+  slides: /assets/pdf/Decentralized_Training.pdf
+
+- title: "Lynx Paper Review"
+  event: "Lab Seminar (Paper Review)"
+  date: 2024-06
+  slides: /assets/pdf/Lynx.pdf
+
+- title: "NanoFlow Paper Review"
+  event: "Lab Seminar (Paper Review)"
+  date: 2025-09
+  slides: /assets/pdf/NanoFlow.pdf
+
+- title: "Ray Paper Review"
+  event: "Lab Seminar (Paper Review)"
+  date: 2025-07
+  slides: /assets/pdf/Ray.pdf
+
+- title: "TT-CCL Technical Document Review"
+  event: "Lab Seminar (Technical Document Review)"
+  date: 2025-04
+  slides: /assets/pdf/TT-CCL.pdf
+
