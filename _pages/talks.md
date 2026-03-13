@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+## Conference Presentations
+
 {% assign conference_talks = site.data.talks | where: "type", "Conference" %}
 {% for talk in conference_talks %}
 <div class="card mt-3">
@@ -24,6 +26,8 @@ nav_order: 5
   </div>
 </div>
 {% endfor %}
+
+<br><br>
 
 ## Lab Seminars
 
