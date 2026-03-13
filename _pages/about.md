@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 병렬성과 자원 효율을 극대화하는 분산 시스템을 연구·개발하는 엔지니어입니다.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>한국항공대학교 석사과정 재학중</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+저는 대규모 분산 병렬 시스템을 연구하는 연구자로, 특히 병렬성을 극대화하면서도 제한된 자원을 얼마나 효율적으로 활용할 수 있는지에 관심을 가지고 있습니다. 단순히 더 많은 하드웨어를 추가하는 Scale-Up 방식의 성능 향상보다는, 기존 자원의 활용도를 극대화하여 시스템 전체의 효율과 확장성을 높이는 시스템 설계를 연구하고 있습니다.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+현재는 파이프라인 병렬화, 자원 스케줄링, 런타임 시스템을 중심으로, 이기종 가속기 환경에서 딥러닝 모델을 효율적으로 실행하기 위한 시스템을 개발하고 있습니다. 이를 통해 대규모 분산 환경에서도 높은 병렬성과 자원 효율을 동시에 달성할 수 있는 시스템을 만드는 것을 목표로 하고 있습니다.
