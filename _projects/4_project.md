@@ -1,17 +1,16 @@
 ---
 layout: page
-title: project 4
+title: Lockheed Matin Falcon Challenger
 description: another without an image
 img:
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+교내 자율주행 드론 미션 수행 대회인 록히드 마틴 팔콘 챌린저 참여
+3인 팀 팀장으로 역할 수행, 영상처리를 통한 미션 수행 및 드론 자율 주행을 위한 드론 조작 기술 사용
+최종결과: 본선 진출
+Tool: Python, OpenCV
 
     ---
     layout: page
