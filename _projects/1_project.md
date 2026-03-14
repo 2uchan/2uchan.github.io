@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Scalable Python COntent-Addressable Network (CAN)
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Undergraduate Research Assistant
 related_publications: true
 ---
 
@@ -44,9 +44,11 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+대규모 Peer-to-Peer 분산 시스템 구현을 위한 Python 기반 N차원 Content-Addressable Network(CAN) 구현
+Tool: Python, Docker
+DHT(Distributed Hash Table)의 특성을 만족하는 최초의 Python 기반 오픈소스 N차원 CAN
+시뮬레이션을 통한 4800개 노드 동시 동작 시스템 구현 및 안정성 검즘
+연구결과물: SoftwareX(SCIE) 논문 1편, 특허 1건
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
