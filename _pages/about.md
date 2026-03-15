@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 병렬성과 자원 효율을 극대화하는 분산 시스템을 연구·개발하는 엔지니어입니다.
+subtitle: 병렬 처리 성능과 자원 효율을 극대화하는 분산시스템을 연구·개발하는 엔지니어입니다
 
 profile:
   align: right
