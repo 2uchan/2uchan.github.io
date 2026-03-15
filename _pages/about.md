@@ -9,7 +9,8 @@ profile:
   image: yuchan_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>한국항공대학교 석사과정 재학중</p>
+    <p>24.08-26.08 한국항공대 석사과정 재학중</p>
+    <p>19.03-24.08 한국항공대 학사 졸업</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
