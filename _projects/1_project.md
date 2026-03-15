@@ -36,4 +36,3 @@ Tool: Python, Docker
 </div>
 ```
 
-{% endraw %}
