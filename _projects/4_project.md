@@ -4,7 +4,7 @@ title: Lockheed Matin Falcon Challenger
 description: another without an image
 img:
 importance: 3
-category: fun
+category: Team Project
 ---
 
 교내 자율주행 드론 미션 수행 대회인 록히드 마틴 팔콘 챌린저 참여
