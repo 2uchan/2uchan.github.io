@@ -26,5 +26,3 @@ Tool: Python, OpenCV, ROS
   </div>
 </div>
 ```
-
-{% endraw %}
