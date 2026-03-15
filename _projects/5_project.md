@@ -2,7 +2,6 @@
 layout: page
 title: Autonomous Driving Club Activity
 description: a project with a background image
-img: assets/img/1.jpg
 importance: 3
 category: Team Project
 ---
@@ -16,6 +15,8 @@ ROS를 활용한 차선인식기술과 제어 기술 연동 기술 구현
 Tool: Python, OpenCV, ROS
 
 
+{% raw %}
+
 ```html
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
@@ -26,3 +27,5 @@ Tool: Python, OpenCV, ROS
   </div>
 </div>
 ```
+
+{% endraw %}
