@@ -16,13 +16,13 @@ related_publications: true
 
 대규모 Peer-to-Peer 분산 시스템 구현을 위한 Python 기반 N차원 Content-Addressable Network(CAN) 구현
 
-Tool: Python, Docker
-
 DHT(Distributed Hash Table)의 특성을 만족하는 최초의 Python 기반 오픈소스 N차원 CAN
 
 시뮬레이션을 통한 4800개 노드 동시 동작 시스템 구현 및 안정성 검증
 
 연구결과물: SoftwareX(SCIE) 논문 1편, 특허 1건
+
+Tool: Python, Docker
 
 
 ```html
