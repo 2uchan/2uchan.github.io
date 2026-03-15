@@ -18,11 +18,28 @@ code = {https://github.com/2uchan/PyCAN},
 selected = {true}
 }
 
+
+@INPROCEEDINGS{11402370,
+  author={Lee, Yuchan and Jang, Sooho and Lee, Sookwang and Ahn, Shinyoung and Lee, Jaehwan},
+  booktitle={2025 IEEE International Conference on Big Data (BigData)}, 
+  title={DEPUTY: A DPU-Based Network Offloading Architecture with Minimal CPU Involvement for Stable Network Performance}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={282-288},
+  keywords={Structural rings;System performance;Graphics processing units;Big Data;Throughput;Central Processing Unit;Synchronization;Resource management;Reliability;Artificial intelligence;Data Processing Unit;Network Offloading;CPU Congestion;Direct Memory Access},
+  abstract = {The growing demand for High-Performance Computing (HPC) and large-scale AI services has led to a significant increase in workloads that require processing Big Data in real time. While the GPU handles most of the computation, frequent CPU intervention in network processing and data transfer often leads to system performance bottlenecks and inefficient resource utilization. To address this problem, we propose DEPUTY, a system that enables network processing without CPU involvement by offloading all network-related tasks to the Data Processing Unit (DPU). DEPUTY performs all network-related operations on the DPU, including receiving client requests, transferring data to GPU memory, checking GPU inference results, and sending the results back to the client. To achieve this, we utilize DOCA DMA and develop a ring buffer-based data structure in GPU memory, enabling efficient and synchronized data transmission between the DPU and GPU. DEPUTY employs index-based polling to minimize synchronization overhead while ensuring reliable communication. Unlike RDMA, DEPUTY does not require specialized hardware and tightly coupled network configurations on the client side, allowing compatibility with broader deployment environments. Additionally, to minimize CPU overhead during inference, the entire inference workflow is expressed as a CUDA Graph, allowing GPU to autonomously execute kernels in sequence without requiring repeated CPU intervention. Experimental results show that DEPUTY achieves up to 1.96× higher throughput compared to an existing DPUbased offloading method. Using DEPUTY, it effectively reduces CPU resource consumption and mitigates system performance bottlenecks.},
+  doi={10.1109/BigData66926.2025.11402370},
+  video={https://www.computer.org/csdl/video-library/video/2dOxqK6hlDy},
+  abbr={BigData},
+  selected={true}
+}
+
+
 @inproceedings{10.1145/3754598.3754654,
 author = {Jang, Sooho and Lim, Ahyeon and Lee, Yuchan and Lee, Sookwang and Lee, Jaehwan},
 title = {P3P-Fed: Peer-to-Peer Personalized Federated Learning with DHT-based Local Clustering},
 year = {2025},
-month = {9},
 isbn = {9798400720741},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
@@ -38,19 +55,3 @@ series = {ICPP '25},
 abbr = {ICPP}
 }
 
-@INPROCEEDINGS{11402370,
-  author={Lee, Yuchan and Jang, Sooho and Lee, Sookwang and Ahn, Shinyoung and Lee, Jaehwan},
-  booktitle={2025 IEEE International Conference on Big Data (BigData)}, 
-  title={DEPUTY: A DPU-Based Network Offloading Architecture with Minimal CPU Involvement for Stable Network Performance}, 
-  year={2025},
-  month={12},
-  volume={},
-  number={},
-  pages={282-288},
-  keywords={Structural rings;System performance;Graphics processing units;Big Data;Throughput;Central Processing Unit;Synchronization;Resource management;Reliability;Artificial intelligence;Data Processing Unit;Network Offloading;CPU Congestion;Direct Memory Access},
-  abstract = {The growing demand for High-Performance Computing (HPC) and large-scale AI services has led to a significant increase in workloads that require processing Big Data in real time. While the GPU handles most of the computation, frequent CPU intervention in network processing and data transfer often leads to system performance bottlenecks and inefficient resource utilization. To address this problem, we propose DEPUTY, a system that enables network processing without CPU involvement by offloading all network-related tasks to the Data Processing Unit (DPU). DEPUTY performs all network-related operations on the DPU, including receiving client requests, transferring data to GPU memory, checking GPU inference results, and sending the results back to the client. To achieve this, we utilize DOCA DMA and develop a ring buffer-based data structure in GPU memory, enabling efficient and synchronized data transmission between the DPU and GPU. DEPUTY employs index-based polling to minimize synchronization overhead while ensuring reliable communication. Unlike RDMA, DEPUTY does not require specialized hardware and tightly coupled network configurations on the client side, allowing compatibility with broader deployment environments. Additionally, to minimize CPU overhead during inference, the entire inference workflow is expressed as a CUDA Graph, allowing GPU to autonomously execute kernels in sequence without requiring repeated CPU intervention. Experimental results show that DEPUTY achieves up to 1.96× higher throughput compared to an existing DPUbased offloading method. Using DEPUTY, it effectively reduces CPU resource consumption and mitigates system performance bottlenecks.},
-  doi={10.1109/BigData66926.2025.11402370},
-  video={https://www.computer.org/csdl/video-library/video/2dOxqK6hlDy},
-  abbr={BigData},
-  selected={true}
-}
