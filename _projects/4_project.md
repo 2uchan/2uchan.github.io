@@ -27,4 +27,3 @@ Tool: Python, OpenCV
 </div>
 ```
 
-{% endraw %}
