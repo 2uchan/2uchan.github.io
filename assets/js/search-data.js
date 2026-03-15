@@ -417,7 +417,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-scalable-python-content-addressable-network-can",
-          title: 'Scalable Python COntent-Addressable Network (CAN)',
+          title: 'Scalable Python Content-Addressable Network (CAN)',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
