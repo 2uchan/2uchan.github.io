@@ -5,7 +5,6 @@ description: a project with a background image and giscus comments
 img: assets/img/DEPUTY.png
 importance: 2
 category: Graduate Research Assistant
-giscus_comments: true
 ---
 
 <div class="row">
