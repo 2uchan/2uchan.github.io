@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lockheed Matin Falcon Challenger
+title: Lockheed Martin Falcon Challenger
 description: another without an image
 img:
 importance: 3
