@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Network Offloading System using Data Processing Unit (DPU)
-description: a project with a background image and giscus comments
 img: assets/img/DEPUTY.png
 importance: 2
 category: Graduate Research Assistant
