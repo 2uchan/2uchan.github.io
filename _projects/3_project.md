@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Heterogeneous Accelerator Parallelization
-description: a project that redirects to another website
 img: assets/img/NPU.png
-importance: 3
+importance: 1
 category: Graduate Research Assistant
 ---
 
