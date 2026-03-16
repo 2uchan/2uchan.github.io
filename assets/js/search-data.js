@@ -423,7 +423,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-network-offloading-system-using-data-processing-unit-dpu",
           title: 'Network Offloading System using Data Processing Unit (DPU)',
-          description: "",
+          description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-heterogeneous-accelerator-parallelization",
