@@ -418,12 +418,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-scalable-python-content-addressable-network-can",
           title: 'Scalable Python Content-Addressable Network (CAN)',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-network-offloading-system-using-data-processing-unit-dpu",
           title: 'Network Offloading System using Data Processing Unit (DPU)',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-heterogeneous-accelerator-parallelization",
