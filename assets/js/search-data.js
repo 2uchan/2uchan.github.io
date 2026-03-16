@@ -423,12 +423,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-network-offloading-system-using-data-processing-unit-dpu",
           title: 'Network Offloading System using Data Processing Unit (DPU)',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-heterogeneous-accelerator-parallelization",
           title: 'Heterogeneous Accelerator Parallelization',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-lockheed-martin-falcon-challenger",
