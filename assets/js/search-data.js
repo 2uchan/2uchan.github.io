@@ -433,7 +433,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-lockheed-martin-falcon-challenger",
           title: 'Lockheed Martin Falcon Challenger',
-          description: "another without an image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-autonomous-driving-club-activity",
