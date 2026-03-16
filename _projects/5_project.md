@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Autonomous Driving Club Activity
-description: a project with a background image
 importance: 3
 category: Team Project
 ---
