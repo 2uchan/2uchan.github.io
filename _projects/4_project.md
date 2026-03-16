@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Lockheed Martin Falcon Challenger
-img:
 importance: 3
 category: Team Project
 ---
