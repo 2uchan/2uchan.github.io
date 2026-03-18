@@ -30,14 +30,9 @@ latest_posts:
 
 현재는 파이프라인 병렬화, 자원 스케줄링, 런타임 시스템을 중심으로, 이기종 가속기 환경에서 딥러닝 모델을 효율적으로 실행하기 위한 시스템을 개발하고 있습니다. 이를 통해 대규모 분산 환경에서도 높은 병렬성과 자원 효율을 동시에 달성할 수 있는 시스템을 만드는 것을 목표로 하고 있습니다.
 
-연구관심분야: 분산 병렬 시스템 최적화, 고성능 AI 추론 플랫폼, 스케줄링을 통한 자원 효율성 개선
-
-어학성적: OPIc IH, TOEFL 96
-
-프로그래밍 언어: Python, C, C++
-
-머신러닝 프레임워크: Pytorch, JAX, Huggingface
-
-AI 그래프 컴파일러: XLA, TVM, Pytorch Compiler
-
-기타 분야: NVIDIA DPU 프레임워크 (DOCA), Tenstorrent NPU 프레임워크 (TT-Metal, TTNN)
+연구관심분야: 분산 병렬 시스템 최적화, 고성능 AI 추론 플랫폼, 스케줄링을 통한 자원 효율성 개선  
+어학성적: OPIc IH, TOEFL 96  
+프로그래밍 언어: Python, C, C++  
+머신러닝 프레임워크: Pytorch, JAX, Huggingface  
+AI 그래프 컴파일러: XLA, TVM, Pytorch Compiler  
+기타 분야: NVIDIA DPU 프레임워크 (DOCA), Tenstorrent NPU 프레임워크 (TT-Metal, TTNN)  
