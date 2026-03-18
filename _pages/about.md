@@ -33,7 +33,11 @@ latest_posts:
 연구관심분야: 분산 병렬 시스템 최적화, 고성능 AI 추론 플랫폼, 스케줄링을 통한 자원 효율성 개선
 
 어학성적: OPIc IH, TOEFL 96
+
 프로그래밍 언어: Python, C, C++
+
 머신러닝 프레임워크: Pytorch, JAX, Huggingface
+
 AI 그래프 컴파일러: XLA, TVM, Pytorch Compiler
+
 기타 분야: NVIDIA DPU 프레임워크 (DOCA), Tenstorrent NPU 프레임워크 (TT-Metal, TTNN)
