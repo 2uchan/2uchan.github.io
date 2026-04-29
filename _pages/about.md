@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 병렬 처리 성능과 자원 효율을 극대화하는 분산시스템을 연구·개발하는 엔지니어입니다
+subtitle: CSE Ph.D. Student
 
 profile:
   align: right
@@ -26,13 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-저는 대규모 분산 병렬 시스템을 연구하는 연구자로 병렬성을 극대화하면서도 제한된 자원을 얼마나 효율적으로 활용할 수 있는지에 관심을 가지고 있습니다. 단순히 더 많은 하드웨어를 추가하는 Scale-Up 방식의 성능 향상보다는, 기존 자원의 활용도를 극대화하여 시스템 전체의 효율과 확장성을 높이는 시스템 설계를 연구하고 있습니다.
+I am a first-year PhD student in Computer Science and Engineering at The Ohio State University (advisor: Yang Wang). I received both my M.S. and B.S. degrees from Korea Aerospace University under the supervision of Jaehwan Lee.
+My research focuses on large-scale distributed parallel systems, with a particular interest in maximizing parallelism while efficiently utilizing limited resources. Rather than improving performance through scale-up approaches that rely on adding more hardware, I aim to design systems that maximize resource utilization to enhance overall efficiency and scalability.
 
-현재는 파이프라인 병렬화, 자원 스케줄링, 런타임 시스템을 중심으로, 이기종 가속기 환경에서 딥러닝 모델을 효율적으로 실행하기 위한 시스템을 개발하고 있습니다. 이를 통해 대규모 분산 환경에서도 높은 병렬성과 자원 효율을 동시에 달성할 수 있는 시스템을 만드는 것을 목표로 하고 있습니다.
-
-연구관심분야: 분산 병렬 시스템 최적화, 고성능 AI 추론 플랫폼, 스케줄링을 통한 자원 효율성 개선  
-어학성적: OPIc IH, TOEFL 96  
-프로그래밍 언어: Python, C, C++  
-머신러닝 프레임워크: Pytorch, JAX, Huggingface  
-AI 그래프 컴파일러: XLA, TVM, Pytorch Compiler  
-기타 분야: NVIDIA DPU 프레임워크 (DOCA), Tenstorrent NPU 프레임워크 (TT-Metal, TTNN)  
+Research Interests: Distributed parallel system optimization, high-performance AI inference platforms, and resource efficiency through scheduling
+Programming Languages: Python, C, C++
+Machine Learning Frameworks: PyTorch, JAX, Hugging Face
+AI Graph Compilers: XLA, TVM, PyTorch Compiler
+Other Areas: NVIDIA DPU frameworks (DOCA), Tenstorrent NPU frameworks (TT-Metal, TTNN)
