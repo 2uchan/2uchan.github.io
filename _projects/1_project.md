@@ -13,14 +13,13 @@ related_publications: true
     </div>
 </div>
 
-대규모 Peer-to-Peer 분산 시스템 구현을 위한 Python 기반 N차원 Content-Addressable Network(CAN) 구현
+Implemented a Python-based N-dimensional Content-Addressable Network (CAN) for large-scale peer-to-peer distributed systems.
 
-DHT(Distributed Hash Table)의 특성을 만족하는 최초의 Python 기반 오픈소스 N차원 CAN
+Developed the first open-source Python implementation of an N-dimensional CAN satisfying the properties of a Distributed Hash Table (DHT).
 
-시뮬레이션을 통한 4800개 노드 동시 동작 시스템 구현 및 안정성 검증
+Built and validated a simulation environment supporting 4,800 concurrently operating nodes, verifying system stability and scalability.
 
-연구결과물: SoftwareX(SCIE) 논문 1편, 특허 1건
-
-Tool: Python, Docker
+Outcomes: One publication in SoftwareX (SCIE) and one Korean patent.
+Tools: Python, Docker
 
 
