@@ -3,7 +3,7 @@ layout: page
 title: Scalable Python Content-Addressable Network (CAN)
 img: assets/img/PyCAN.png
 importance: 3
-category: Undergraduate Research Assistant
+category: Undergraduate Research Assistant @ KAU
 related_publications: true
 ---
 
