@@ -14,9 +14,7 @@ related_publications: true
 </div>
 
 Implemented a Python-based N-dimensional Content-Addressable Network (CAN) for large-scale peer-to-peer distributed systems.
-
 Developed the first open-source Python implementation of an N-dimensional CAN satisfying the properties of a Distributed Hash Table (DHT).
-
 Built and validated a simulation environment supporting 4,800 concurrently operating nodes, verifying system stability and scalability.
 
 Outcomes: One publication in SoftwareX (SCIE) and one Korean patent.
