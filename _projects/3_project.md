@@ -3,7 +3,7 @@ layout: page
 title: Heterogeneous Accelerator Parallelization
 img: assets/img/NPU.png
 importance: 1
-category: Graduate Research Assistant@KAU
+category: Graduate Research Assistant @ KAU
 ---
 
 <div class="row">
