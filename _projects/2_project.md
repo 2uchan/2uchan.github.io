@@ -3,7 +3,7 @@ layout: page
 title: Network Offloading System using Data Processing Unit (DPU)
 img: assets/img/DEPUTY.png
 importance: 2
-category: Graduate Research Assistant
+category: Graduate Research Assistant @ KAU
 ---
 
 <div class="row">
