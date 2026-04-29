@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Graduate Research Assistant, Undergraduate Research Assistant, Team Project]
+display_categories: [Graduate Research Assistant, Undergraduate Research Assistant]
 horizontal: false
 ---
 
