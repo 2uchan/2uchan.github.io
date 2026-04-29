@@ -29,8 +29,8 @@ latest_posts:
 I am a first-year PhD student in Computer Science and Engineering at The Ohio State University (advisor: Yang Wang). I received both my M.S. and B.S. degrees from Korea Aerospace University under the supervision of Jaehwan Lee.
 My research focuses on large-scale distributed parallel systems, with a particular interest in maximizing parallelism while efficiently utilizing limited resources. Rather than improving performance through scale-up approaches that rely on adding more hardware, I aim to design systems that maximize resource utilization to enhance overall efficiency and scalability.
 
-Research Interests: Distributed parallel system optimization, high-performance AI inference platforms, and resource efficiency through scheduling
-Programming Languages: Python, C, C++
-Machine Learning Frameworks: PyTorch, JAX, Hugging Face
-AI Graph Compilers: XLA, TVM, PyTorch Compiler
-Other Areas: NVIDIA DPU frameworks (DOCA), Tenstorrent NPU frameworks (TT-Metal, TTNN)
+Research Interests: Distributed parallel system optimization, high-performance AI inference platforms, and resource efficiency through scheduling  
+Programming Languages: Python, C, C++  
+Machine Learning Frameworks: PyTorch, JAX, Hugging Face  
+AI Graph Compilers: XLA, TVM, PyTorch Compiler  
+Other Areas: NVIDIA DPU frameworks (DOCA), Tenstorrent NPU frameworks (TT-Metal, TTNN)  
