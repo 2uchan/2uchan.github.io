@@ -431,11 +431,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-lockheed-martin-falcon-challenger",
-          title: 'Lockheed Martin Falcon Challenger',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
