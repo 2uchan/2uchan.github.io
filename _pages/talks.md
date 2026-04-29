@@ -29,22 +29,3 @@ nav_order: 5
 
 <br>
 
-## Lab Seminars
-
-{% assign seminars = site.data.talks | where: "type", "seminar" %}
-{% for talk in seminars %}
-<div class="card mt-3">
-  <div class="card-body">
-    <h5 class="card-title">{{ talk.title }}</h5>
-    <p class="card-text text-muted">{{ talk.event }} &nbsp;|&nbsp; {{ talk.date }}</p>
-    <div>
-      {% if talk.slides %}
-      <a href="{{ talk.slides }}" target="_blank" class="btn btn-sm btn-outline-primary">Slides</a>
-      {% endif %}
-      {% if talk.video %}
-      <a href="{{ talk.video }}" target="_blank" class="btn btn-sm btn-outline-danger">Video</a>
-      {% endif %}
-    </div>
-  </div>
-</div>
-{% endfor %}
