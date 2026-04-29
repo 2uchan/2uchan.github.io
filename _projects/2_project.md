@@ -12,17 +12,12 @@ category: Graduate Research Assistant
     </div>
 </div>
 
-CPU는 많은 프로세스들과 공유되어야 하므로 전체 시스템 병목의 원인
+Identified the CPU as a major system bottleneck due to contention among multiple processes.
+Proposed DEPUTY, a system designed to guarantee the performance of GPU-driven workloads (e.g., AI inference) even under CPU congestion.
+Implemented network offloading techniques leveraging the ARM processors and DMA engines of a DPU.
+Developed a ring buffer–based shared memory access method to reduce access frequency to DPU–GPU shared memory.
+Achieved up to 1.96× throughput improvement compared to existing DPU-based network offloading systems.
 
-CPU 혼잡상황에서도 AI 워크로드와 같이 GPU에서 작업이 이뤄지는 프로세스들의 성능을 보장하기 위한 DEPUTY 시스템 제안
-
-DPU의 ARM 프로세서와 DMA 엔진을 활용한 네트워크 오프로딩 기법 구현
-
-DPU-GPU 공유메모리의 접근 횟수를 줄이기 위한 링버퍼 특성기반 공유 버퍼 접근법 개발
-
-기존 DPU 네트워크 오프로딩 시스템에 비해 최대 1.96배 처리량 향상
-
-연구결과물: IEEE BigData 2025 논문 1편, 국내 특허 1건 출원, 해외 특허(미국) 1건 진행중
-
-Tool: C, RDMA, NVIDIA DPU Framework (DOCA)
+Outcomes: One publication in IEEE BigData 2025, one Korean patent filed, and one U.S. patent pending.
+Tools: C, RDMA, NVIDIA DPU Framework (DOCA)
 
