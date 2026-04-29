@@ -6,43 +6,6 @@
   slides: /assets/pdf/deputy.pdf
   video: https://www.computer.org/csdl/video-library/video/2dOxqK6hlDy
 
-- title: "Paper Review: NanoFlow"
-  event: "Lab Seminar (Paper Review)"
-  type: seminar
-  date: 2025-09
-  slides: /assets/pdf/NanoFlow.pdf
-
-- title: "Paper Review: Ray"
-  event: "Lab Seminar (Paper Review)"
-  type: seminar
-  date: 2025-07
-  slides: /assets/pdf/Ray.pdf
-
-- title: "Technical Document Review: TT-CCL"
-  event: "Lab Seminar (Technical Document Review)"
-  type: seminar
-  date: 2025-04
-  slides: /assets/pdf/TT-CCL.pdf
-
-- title: "Paper Review: Alpa"
-  event: "Lab Seminar (Paper Review)"
-  type: seminar
-  date: 2025-01
-  slides: /assets/pdf/Alpa.pdf
-
-- title: "Paper Review: Decentralized Training of Foundation Models in Heterogeneous Environments"
-  event: "Lab Seminar (Paper Review)"
-  type: seminar
-  date: 2024-08
-  slides: /assets/pdf/Decentralized_Training.pdf
-
-- title: "Paper Review: Lynx"
-  event: "Lab Seminar (Paper Review)"
-  type: seminar
-  date: 2024-06
-  slides: /assets/pdf/Lynx.pdf
-
-
 
 
 
