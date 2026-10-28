@@ -9,7 +9,9 @@ profile:
   image: yuchan_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>lyuch0424@gmail.com</p>
+    <p>The Ohio State University</p>
+    <p>Dreese Lab 574</p>
+    <p>lee.12426@osu.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student in Computer Science and Engineering at The Ohio State University (advisor: Yang Wang). I received both my M.S. and B.S. degrees from Korea Aerospace University under the supervision of Jaehwan Lee.
-My research focuses on large-scale distributed parallel systems, with a particular interest in maximizing parallelism while efficiently utilizing limited resources. Rather than improving performance through scale-up approaches that rely on adding more hardware, I aim to design systems that maximize resource utilization to enhance overall efficiency and scalability.
+I am a first-year Ph.D. student in Computer Science and Engineering at The Ohio State University, advised by Professor [Yang Wang](https://yangwang83.github.io/). I received my M.S. and B.S. degrees from Korea Aerospace University, where I worked under the supervision of Professor [Jaehwan Lee](https://sites.google.com/site/jaehwanlee/professor). My research focuses on large-scale distributed and parallel systems, with an emphasis on maximizing parallelism under resource constraints. My goal is to design systems that improve performance and scalability by making more efficient use of available resources.
 
 Research Interests: Distributed parallel system optimization, high-performance AI inference platforms, and resource efficiency through scheduling  
 
